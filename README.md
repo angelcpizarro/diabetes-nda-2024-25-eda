@@ -41,7 +41,6 @@ The project demonstrates skills in **Python-based data analysis**, including cle
 ```
 nda-2024-25-eda/
 ├── nda_2024_2025_eda.ipynb # Jupyter notebook with full cleaning, analysis, and insights
-├── appendix_outputs.xlsx # Exported tables (top/bottom 10, quadrant analysis) [optional]
 └── README.md # Project summary and documentation
 ```
 
